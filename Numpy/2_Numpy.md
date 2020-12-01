@@ -100,6 +100,67 @@ print("Variance           = ",np.var(pop_data))
 
 
 ```python
+np.argmax(pop_data)
+```
+
+
+
+
+    271881
+
+
+
+
+```python
+pop_data.shape
+```
+
+
+
+
+    (275175,)
+
+
+
+
+```python
+np.argmin(pop_data) # Returns the indices of the minimum values along an axis
+```
+
+
+
+
+    109208
+
+
+
+
+```python
+np.argsort(pop_data) # it gives the array index of the sorted array
+```
+
+
+
+
+    array([109208, 109207, 109206, ..., 271879, 271880, 271881], dtype=int64)
+
+
+
+
+```python
+np.extract(pop_data > np.mean(pop_data), pop_data) # gets the value as per the condition inside
+```
+
+
+
+
+    array([ 382837.766,  393044.438,  403645.936, ..., 9560494.563,
+           9564285.391, 9567228.056])
+
+
+
+
+```python
 # count_nonezero, any, axis = 0 Colum , axis = 1 Row
 ```
 
