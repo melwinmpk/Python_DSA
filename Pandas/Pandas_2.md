@@ -209,70 +209,70 @@ movie_rate
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <td>0</td>
       <td>9.3</td>
       <td>The Shawshank Redemption</td>
       <td>Crime</td>
       <td>142</td>
     </tr>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>9.2</td>
       <td>The Godfather</td>
       <td>Crime</td>
       <td>175</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>9.1</td>
       <td>The Godfather: Part II</td>
       <td>Crime</td>
       <td>200</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>9.0</td>
       <td>The Dark Knight</td>
       <td>Action</td>
       <td>152</td>
     </tr>
     <tr>
-      <th>4</th>
+      <td>4</td>
       <td>8.9</td>
       <td>Pulp Fiction</td>
       <td>Crime</td>
       <td>154</td>
     </tr>
     <tr>
-      <th>5</th>
+      <td>5</td>
       <td>8.9</td>
       <td>12 Angry Men</td>
       <td>Drama</td>
       <td>96</td>
     </tr>
     <tr>
-      <th>6</th>
+      <td>6</td>
       <td>8.9</td>
       <td>The Good, the Bad and the Ugly</td>
       <td>Western</td>
       <td>161</td>
     </tr>
     <tr>
-      <th>7</th>
+      <td>7</td>
       <td>8.9</td>
       <td>The Lord of the Rings: The Return of the King</td>
       <td>Adventure</td>
       <td>201</td>
     </tr>
     <tr>
-      <th>8</th>
+      <td>8</td>
       <td>8.9</td>
       <td>Schindler's List</td>
       <td>Biography</td>
       <td>195</td>
     </tr>
     <tr>
-      <th>9</th>
+      <td>9</td>
       <td>8.9</td>
       <td>Fight Club</td>
       <td>Drama</td>
@@ -319,61 +319,61 @@ movie_rate
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <td>0</td>
       <td>9.3</td>
       <td>The Shawshank Redemption</td>
       <td>Crime</td>
     </tr>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>9.2</td>
       <td>The Godfather</td>
       <td>Crime</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>9.1</td>
       <td>The Godfather: Part II</td>
       <td>Crime</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>9.0</td>
       <td>The Dark Knight</td>
       <td>Action</td>
     </tr>
     <tr>
-      <th>4</th>
+      <td>4</td>
       <td>8.9</td>
       <td>Pulp Fiction</td>
       <td>Crime</td>
     </tr>
     <tr>
-      <th>5</th>
+      <td>5</td>
       <td>8.9</td>
       <td>12 Angry Men</td>
       <td>Drama</td>
     </tr>
     <tr>
-      <th>6</th>
+      <td>6</td>
       <td>8.9</td>
       <td>The Good, the Bad and the Ugly</td>
       <td>Western</td>
     </tr>
     <tr>
-      <th>7</th>
+      <td>7</td>
       <td>8.9</td>
       <td>The Lord of the Rings: The Return of the King</td>
       <td>Adventure</td>
     </tr>
     <tr>
-      <th>8</th>
+      <td>8</td>
       <td>8.9</td>
       <td>Schindler's List</td>
       <td>Biography</td>
     </tr>
     <tr>
-      <th>9</th>
+      <td>9</td>
       <td>8.9</td>
       <td>Fight Club</td>
       <td>Drama</td>
@@ -425,67 +425,67 @@ movie_rate
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <td>0</td>
       <td>9.3</td>
       <td>The Shawshank Redemption</td>
       <td>Crime</td>
     </tr>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>9.2</td>
       <td>The Godfather</td>
       <td>Crime</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>9.1</td>
       <td>The Godfather: Part II</td>
       <td>Crime</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>9.0</td>
       <td>The Dark Knight</td>
       <td>Action</td>
     </tr>
     <tr>
-      <th>4</th>
+      <td>4</td>
       <td>8.9</td>
       <td>Pulp Fiction</td>
       <td>Crime</td>
     </tr>
     <tr>
-      <th>5</th>
+      <td>5</td>
       <td>8.9</td>
       <td>12 Angry Men</td>
       <td>Drama</td>
     </tr>
     <tr>
-      <th>6</th>
+      <td>6</td>
       <td>8.9</td>
       <td>The Good, the Bad and the Ugly</td>
       <td>Western</td>
     </tr>
     <tr>
-      <th>7</th>
+      <td>7</td>
       <td>8.9</td>
       <td>The Lord of the Rings: The Return of the King</td>
       <td>Adventure</td>
     </tr>
     <tr>
-      <th>8</th>
+      <td>8</td>
       <td>8.9</td>
       <td>Schindler's List</td>
       <td>Biography</td>
     </tr>
     <tr>
-      <th>9</th>
+      <td>9</td>
       <td>8.9</td>
       <td>Fight Club</td>
       <td>Drama</td>
     </tr>
     <tr>
-      <th>10</th>
+      <td>10</td>
       <td>9.5</td>
       <td>ASUR</td>
       <td>Crime</td>
@@ -532,77 +532,77 @@ movie_rate
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <td>0</td>
       <td>9.3</td>
       <td>The Shawshank Redemption</td>
       <td>Crime</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>9.2</td>
       <td>The Godfather</td>
       <td>Crime</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>9.1</td>
       <td>The Godfather: Part II</td>
       <td>Crime</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>9.0</td>
       <td>The Dark Knight</td>
       <td>Action</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>4</th>
+      <td>4</td>
       <td>8.9</td>
       <td>Pulp Fiction</td>
       <td>Crime</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>5</th>
+      <td>5</td>
       <td>8.9</td>
       <td>12 Angry Men</td>
       <td>Drama</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>6</th>
+      <td>6</td>
       <td>8.9</td>
       <td>The Good, the Bad and the Ugly</td>
       <td>Western</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>7</th>
+      <td>7</td>
       <td>8.9</td>
       <td>The Lord of the Rings: The Return of the King</td>
       <td>Adventure</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>8</th>
+      <td>8</td>
       <td>8.9</td>
       <td>Schindler's List</td>
       <td>Biography</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>9</th>
+      <td>9</td>
       <td>8.9</td>
       <td>Fight Club</td>
       <td>Drama</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>10</th>
+      <td>10</td>
       <td>9.5</td>
       <td>ASUR</td>
       <td>Crime</td>
@@ -654,77 +654,77 @@ movie_rate
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <td>0</td>
       <td>9.3</td>
       <td>The Shawshank Redemption</td>
       <td>Crime</td>
       <td>Great Movie</td>
     </tr>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>9.2</td>
       <td>The Godfather</td>
       <td>Crime</td>
       <td>Great Movie</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>9.1</td>
       <td>The Godfather: Part II</td>
       <td>Crime</td>
       <td>Great Movie</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>9.0</td>
       <td>The Dark Knight</td>
       <td>Action</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>4</th>
+      <td>4</td>
       <td>8.9</td>
       <td>Pulp Fiction</td>
       <td>Crime</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>5</th>
+      <td>5</td>
       <td>8.9</td>
       <td>12 Angry Men</td>
       <td>Drama</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>6</th>
+      <td>6</td>
       <td>8.9</td>
       <td>The Good, the Bad and the Ugly</td>
       <td>Western</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>7</th>
+      <td>7</td>
       <td>8.9</td>
       <td>The Lord of the Rings: The Return of the King</td>
       <td>Adventure</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>8</th>
+      <td>8</td>
       <td>8.9</td>
       <td>Schindler's List</td>
       <td>Biography</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>9</th>
+      <td>9</td>
       <td>8.9</td>
       <td>Fight Club</td>
       <td>Drama</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>10</th>
+      <td>10</td>
       <td>9.5</td>
       <td>ASUR</td>
       <td>Crime</td>
@@ -772,67 +772,67 @@ movie_rate_1
   </thead>
   <tbody>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>9.2</td>
       <td>The Godfather</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>9.1</td>
       <td>The Godfather: Part II</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>9.0</td>
       <td>The Dark Knight</td>
       <td>Action</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>5</th>
+      <td>5</td>
       <td>8.9</td>
       <td>12 Angry Men</td>
       <td>Drama</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>6</th>
+      <td>6</td>
       <td>8.9</td>
       <td>The Good, the Bad and the Ugly</td>
       <td>Western</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>7</th>
+      <td>7</td>
       <td>8.9</td>
       <td>The Lord of the Rings: The Return of the King</td>
       <td>Adventure</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>8</th>
+      <td>8</td>
       <td>8.9</td>
       <td>Schindler's List</td>
       <td>Biography</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>9</th>
+      <td>9</td>
       <td>8.9</td>
       <td>Fight Club</td>
       <td>Drama</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>10</th>
+      <td>10</td>
       <td>9.5</td>
       <td>ASUR</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
   </tbody>
 </table>
@@ -877,67 +877,67 @@ movie_rate_1
   </thead>
   <tbody>
     <tr>
-      <th>mov_1</th>
+      <td>mov_1</td>
       <td>9.2</td>
       <td>The Godfather</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
     <tr>
-      <th>mov_2</th>
+      <td>mov_2</td>
       <td>9.1</td>
       <td>The Godfather: Part II</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
     <tr>
-      <th>mov_3</th>
+      <td>mov_3</td>
       <td>9.0</td>
       <td>The Dark Knight</td>
       <td>Action</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>mov_4</th>
+      <td>mov_4</td>
       <td>8.9</td>
       <td>12 Angry Men</td>
       <td>Drama</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>mov_5</th>
+      <td>mov_5</td>
       <td>8.9</td>
       <td>The Good, the Bad and the Ugly</td>
       <td>Western</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>mov_6</th>
+      <td>mov_6</td>
       <td>8.9</td>
       <td>The Lord of the Rings: The Return of the King</td>
       <td>Adventure</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>mov_7</th>
+      <td>mov_7</td>
       <td>8.9</td>
       <td>Schindler's List</td>
       <td>Biography</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>mov_8</th>
+      <td>mov_8</td>
       <td>8.9</td>
       <td>Fight Club</td>
       <td>Drama</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>mov_9</th>
+      <td>mov_9</td>
       <td>9.5</td>
       <td>ASUR</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
   </tbody>
 </table>
@@ -982,23 +982,23 @@ movie_rate_1
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <td>0</td>
       <td>mov_1</td>
       <td>9.2</td>
       <td>The Godfather</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>mov_2</td>
       <td>9.1</td>
       <td>The Godfather: Part II</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>mov_3</td>
       <td>9.0</td>
       <td>The Dark Knight</td>
@@ -1006,7 +1006,7 @@ movie_rate_1
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>mov_4</td>
       <td>8.9</td>
       <td>12 Angry Men</td>
@@ -1014,7 +1014,7 @@ movie_rate_1
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>4</th>
+      <td>4</td>
       <td>mov_5</td>
       <td>8.9</td>
       <td>The Good, the Bad and the Ugly</td>
@@ -1022,7 +1022,7 @@ movie_rate_1
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>5</th>
+      <td>5</td>
       <td>mov_6</td>
       <td>8.9</td>
       <td>The Lord of the Rings: The Return of the King</td>
@@ -1030,7 +1030,7 @@ movie_rate_1
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>6</th>
+      <td>6</td>
       <td>mov_7</td>
       <td>8.9</td>
       <td>Schindler's List</td>
@@ -1038,7 +1038,7 @@ movie_rate_1
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>7</th>
+      <td>7</td>
       <td>mov_8</td>
       <td>8.9</td>
       <td>Fight Club</td>
@@ -1046,12 +1046,12 @@ movie_rate_1
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>8</th>
+      <td>8</td>
       <td>mov_9</td>
       <td>9.5</td>
       <td>ASUR</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
   </tbody>
 </table>
@@ -1094,23 +1094,23 @@ movie_rate_1
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <td>0</td>
       <td>mov_1</td>
       <td>9.2</td>
       <td>The Godfather</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>mov_2</td>
       <td>9.1</td>
       <td>The Godfather: Part II</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>mov_3</td>
       <td>9.0</td>
       <td>The Dark Knight</td>
@@ -1118,7 +1118,7 @@ movie_rate_1
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>mov_4</td>
       <td>8.9</td>
       <td>12 Angry Men</td>
@@ -1126,7 +1126,7 @@ movie_rate_1
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>4</th>
+      <td>4</td>
       <td>mov_5</td>
       <td>8.9</td>
       <td>The Good, the Bad and the Ugly</td>
@@ -1134,7 +1134,7 @@ movie_rate_1
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>5</th>
+      <td>5</td>
       <td>mov_6</td>
       <td>8.9</td>
       <td>The Lord of the Rings: The Return of the King</td>
@@ -1142,7 +1142,7 @@ movie_rate_1
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>6</th>
+      <td>6</td>
       <td>mov_7</td>
       <td>8.9</td>
       <td>Schindler's List</td>
@@ -1150,7 +1150,7 @@ movie_rate_1
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>7</th>
+      <td>7</td>
       <td>mov_8</td>
       <td>8.9</td>
       <td>Fight Club</td>
@@ -1158,12 +1158,12 @@ movie_rate_1
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>8</th>
+      <td>8</td>
       <td>mov_9</td>
       <td>9.5</td>
       <td>ASUR</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
   </tbody>
 </table>
@@ -1207,67 +1207,67 @@ movie_rate_1
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <td>0</td>
       <td>9.2</td>
       <td>The Godfather</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>9.1</td>
       <td>The Godfather: Part II</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>9.0</td>
       <td>The Dark Knight</td>
       <td>Action</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>8.9</td>
       <td>12 Angry Men</td>
       <td>Drama</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>4</th>
+      <td>4</td>
       <td>8.9</td>
       <td>The Good, the Bad and the Ugly</td>
       <td>Western</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>5</th>
+      <td>5</td>
       <td>8.9</td>
       <td>The Lord of the Rings: The Return of the King</td>
       <td>Adventure</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>6</th>
+      <td>6</td>
       <td>8.9</td>
       <td>Schindler's List</td>
       <td>Biography</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>7</th>
+      <td>7</td>
       <td>8.9</td>
       <td>Fight Club</td>
       <td>Drama</td>
       <td>ITs OK</td>
     </tr>
     <tr>
-      <th>8</th>
+      <td>8</td>
       <td>9.5</td>
       <td>ASUR</td>
       <td>Crime</td>
-      <td>ITs OK</td>
+      <td>Great Movie</td>
     </tr>
   </tbody>
 </table>
@@ -1318,7 +1318,7 @@ citi_ride.head()
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <td>0</td>
       <td>338</td>
       <td>2018-05-01 00:04:47</td>
       <td>2018-05-01 00:10:25</td>
@@ -1331,7 +1331,7 @@ citi_ride.head()
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>1482</td>
       <td>2018-05-01 01:31:10</td>
       <td>2018-05-01 01:55:53</td>
@@ -1344,7 +1344,7 @@ citi_ride.head()
       <td>Customer</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>232</td>
       <td>2018-05-01 01:31:29</td>
       <td>2018-05-01 01:35:22</td>
@@ -1357,7 +1357,7 @@ citi_ride.head()
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>190</td>
       <td>2018-05-01 02:03:29</td>
       <td>2018-05-01 02:06:40</td>
@@ -1370,7 +1370,7 @@ citi_ride.head()
       <td>Customer</td>
     </tr>
     <tr>
-      <th>4</th>
+      <td>4</td>
       <td>303</td>
       <td>2018-05-01 04:27:12</td>
       <td>2018-05-01 04:32:16</td>
@@ -1437,27 +1437,27 @@ citi_ride[['start station id', 'end station id']].head(5)
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <td>0</td>
       <td>3639</td>
       <td>3199</td>
     </tr>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>3681</td>
       <td>3185</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>3194</td>
       <td>3193</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>3185</td>
       <td>3186</td>
     </tr>
     <tr>
-      <th>4</th>
+      <td>4</td>
       <td>3207</td>
       <td>3195</td>
     </tr>
@@ -1504,27 +1504,27 @@ citi_ride[['start station id', 'end station id']].head(5)
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <td>0</td>
       <td>3639</td>
       <td>3199</td>
     </tr>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>32000</td>
       <td>3185</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>3194</td>
       <td>3193</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>3185</td>
       <td>3186</td>
     </tr>
     <tr>
-      <th>4</th>
+      <td>4</td>
       <td>3207</td>
       <td>3195</td>
     </tr>
@@ -1575,7 +1575,7 @@ new_citi_ride
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
+      <td>0</td>
       <td>338</td>
       <td>2018-05-01 00:04:47</td>
       <td>2018-05-01 00:10:25</td>
@@ -1588,7 +1588,7 @@ new_citi_ride
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>1</th>
+      <td>1</td>
       <td>1482</td>
       <td>2018-05-01 01:31:10</td>
       <td>2018-05-01 01:55:53</td>
@@ -1601,7 +1601,7 @@ new_citi_ride
       <td>Customer</td>
     </tr>
     <tr>
-      <th>2</th>
+      <td>2</td>
       <td>232</td>
       <td>2018-05-01 01:31:29</td>
       <td>2018-05-01 01:35:22</td>
@@ -1614,7 +1614,7 @@ new_citi_ride
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>3</th>
+      <td>3</td>
       <td>190</td>
       <td>2018-05-01 02:03:29</td>
       <td>2018-05-01 02:06:40</td>
@@ -1627,7 +1627,7 @@ new_citi_ride
       <td>Customer</td>
     </tr>
     <tr>
-      <th>4</th>
+      <td>4</td>
       <td>303</td>
       <td>2018-05-01 04:27:12</td>
       <td>2018-05-01 04:32:16</td>
@@ -1640,7 +1640,7 @@ new_citi_ride
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>5</th>
+      <td>5</td>
       <td>176</td>
       <td>2018-05-01 04:37:05</td>
       <td>2018-05-01 04:40:01</td>
@@ -1653,7 +1653,7 @@ new_citi_ride
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>6</th>
+      <td>6</td>
       <td>577</td>
       <td>2018-05-01 05:05:46</td>
       <td>2018-05-01 05:15:23</td>
@@ -1666,7 +1666,7 @@ new_citi_ride
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>7</th>
+      <td>7</td>
       <td>830</td>
       <td>2018-05-01 05:11:50</td>
       <td>2018-05-01 05:25:41</td>
@@ -1679,7 +1679,7 @@ new_citi_ride
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>8</th>
+      <td>8</td>
       <td>395</td>
       <td>2018-05-01 05:12:07</td>
       <td>2018-05-01 05:18:42</td>
@@ -1692,7 +1692,7 @@ new_citi_ride
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>9</th>
+      <td>9</td>
       <td>170</td>
       <td>2018-05-01 05:13:52</td>
       <td>2018-05-01 05:16:43</td>
@@ -1752,7 +1752,7 @@ new_citi_ride.head()
   </thead>
   <tbody>
     <tr>
-      <th>ride_1</th>
+      <td>ride_1</td>
       <td>338</td>
       <td>2018-05-01 00:04:47</td>
       <td>2018-05-01 00:10:25</td>
@@ -1765,7 +1765,7 @@ new_citi_ride.head()
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>ride_2</th>
+      <td>ride_2</td>
       <td>1482</td>
       <td>2018-05-01 01:31:10</td>
       <td>2018-05-01 01:55:53</td>
@@ -1778,7 +1778,7 @@ new_citi_ride.head()
       <td>Customer</td>
     </tr>
     <tr>
-      <th>ride_3</th>
+      <td>ride_3</td>
       <td>232</td>
       <td>2018-05-01 01:31:29</td>
       <td>2018-05-01 01:35:22</td>
@@ -1791,7 +1791,7 @@ new_citi_ride.head()
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>ride_4</th>
+      <td>ride_4</td>
       <td>190</td>
       <td>2018-05-01 02:03:29</td>
       <td>2018-05-01 02:06:40</td>
@@ -1804,7 +1804,7 @@ new_citi_ride.head()
       <td>Customer</td>
     </tr>
     <tr>
-      <th>ride_5</th>
+      <td>ride_5</td>
       <td>303</td>
       <td>2018-05-01 04:27:12</td>
       <td>2018-05-01 04:32:16</td>
@@ -1855,19 +1855,19 @@ new_citi_ride.loc['ride_1':'ride_3','tripduration':'stoptime']
   </thead>
   <tbody>
     <tr>
-      <th>ride_1</th>
+      <td>ride_1</td>
       <td>338</td>
       <td>2018-05-01 00:04:47</td>
       <td>2018-05-01 00:10:25</td>
     </tr>
     <tr>
-      <th>ride_2</th>
+      <td>ride_2</td>
       <td>1482</td>
       <td>2018-05-01 01:31:10</td>
       <td>2018-05-01 01:55:53</td>
     </tr>
     <tr>
-      <th>ride_3</th>
+      <td>ride_3</td>
       <td>232</td>
       <td>2018-05-01 01:31:29</td>
       <td>2018-05-01 01:35:22</td>
@@ -1959,7 +1959,7 @@ new_citi_ride[new_citi_ride['tripduration']>200]
   </thead>
   <tbody>
     <tr>
-      <th>ride_1</th>
+      <td>ride_1</td>
       <td>338</td>
       <td>2018-05-01 00:04:47</td>
       <td>2018-05-01 00:10:25</td>
@@ -1972,7 +1972,7 @@ new_citi_ride[new_citi_ride['tripduration']>200]
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>ride_2</th>
+      <td>ride_2</td>
       <td>1482</td>
       <td>2018-05-01 01:31:10</td>
       <td>2018-05-01 01:55:53</td>
@@ -1985,7 +1985,7 @@ new_citi_ride[new_citi_ride['tripduration']>200]
       <td>Customer</td>
     </tr>
     <tr>
-      <th>ride_3</th>
+      <td>ride_3</td>
       <td>232</td>
       <td>2018-05-01 01:31:29</td>
       <td>2018-05-01 01:35:22</td>
@@ -1998,7 +1998,7 @@ new_citi_ride[new_citi_ride['tripduration']>200]
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>ride_5</th>
+      <td>ride_5</td>
       <td>303</td>
       <td>2018-05-01 04:27:12</td>
       <td>2018-05-01 04:32:16</td>
@@ -2011,7 +2011,7 @@ new_citi_ride[new_citi_ride['tripduration']>200]
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>ride_7</th>
+      <td>ride_7</td>
       <td>577</td>
       <td>2018-05-01 05:05:46</td>
       <td>2018-05-01 05:15:23</td>
@@ -2024,7 +2024,7 @@ new_citi_ride[new_citi_ride['tripduration']>200]
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>ride_8</th>
+      <td>ride_8</td>
       <td>830</td>
       <td>2018-05-01 05:11:50</td>
       <td>2018-05-01 05:25:41</td>
@@ -2037,7 +2037,7 @@ new_citi_ride[new_citi_ride['tripduration']>200]
       <td>Subscriber</td>
     </tr>
     <tr>
-      <th>ride_9</th>
+      <td>ride_9</td>
       <td>395</td>
       <td>2018-05-01 05:12:07</td>
       <td>2018-05-01 05:18:42</td>
@@ -2089,49 +2089,49 @@ new_citi_ride.loc[new_citi_ride['tripduration']>200, :'end station name':2]
   </thead>
   <tbody>
     <tr>
-      <th>ride_1</th>
+      <td>ride_1</td>
       <td>338</td>
       <td>2018-05-01 00:10:25</td>
       <td>Harborside</td>
       <td>Newport Pkwy</td>
     </tr>
     <tr>
-      <th>ride_2</th>
+      <td>ride_2</td>
       <td>1482</td>
       <td>2018-05-01 01:55:53</td>
       <td>Grand St</td>
       <td>City Hall</td>
     </tr>
     <tr>
-      <th>ride_3</th>
+      <td>ride_3</td>
       <td>232</td>
       <td>2018-05-01 01:35:22</td>
       <td>McGinley Square</td>
       <td>Lincoln Park</td>
     </tr>
     <tr>
-      <th>ride_5</th>
+      <td>ride_5</td>
       <td>303</td>
       <td>2018-05-01 04:32:16</td>
       <td>Oakland Ave</td>
       <td>Sip Ave</td>
     </tr>
     <tr>
-      <th>ride_7</th>
+      <td>ride_7</td>
       <td>577</td>
       <td>2018-05-01 05:15:23</td>
       <td>Baldwin at Montgomery</td>
       <td>Grove St PATH</td>
     </tr>
     <tr>
-      <th>ride_8</th>
+      <td>ride_8</td>
       <td>830</td>
       <td>2018-05-01 05:25:41</td>
       <td>Oakland Ave</td>
       <td>City Hall</td>
     </tr>
     <tr>
-      <th>ride_9</th>
+      <td>ride_9</td>
       <td>395</td>
       <td>2018-05-01 05:18:42</td>
       <td>Baldwin at Montgomery</td>
@@ -2432,6 +2432,103 @@ new_citi_ride.iloc[1:5, ::2]
 
 
 ```python
+new_citi_ride.iloc[[0, 4, 6, 9], ::]
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>tripduration</th>
+      <th>starttime</th>
+      <th>stoptime</th>
+      <th>start station id</th>
+      <th>start station name</th>
+      <th>end station id</th>
+      <th>end station name</th>
+      <th>bikeid</th>
+      <th>name_localizedValue</th>
+      <th>usertype</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ride_1</td>
+      <td>338</td>
+      <td>2018-05-01 00:04:47</td>
+      <td>2018-05-01 00:10:25</td>
+      <td>3639</td>
+      <td>Harborside</td>
+      <td>3199</td>
+      <td>Newport Pkwy</td>
+      <td>33558</td>
+      <td>Annual Membership</td>
+      <td>Subscriber</td>
+    </tr>
+    <tr>
+      <td>ride_5</td>
+      <td>303</td>
+      <td>2018-05-01 04:27:12</td>
+      <td>2018-05-01 04:32:16</td>
+      <td>3207</td>
+      <td>Oakland Ave</td>
+      <td>3195</td>
+      <td>Sip Ave</td>
+      <td>15271</td>
+      <td>Annual Membership</td>
+      <td>Subscriber</td>
+    </tr>
+    <tr>
+      <td>ride_7</td>
+      <td>577</td>
+      <td>2018-05-01 05:05:46</td>
+      <td>2018-05-01 05:15:23</td>
+      <td>3225</td>
+      <td>Baldwin at Montgomery</td>
+      <td>3186</td>
+      <td>Grove St PATH</td>
+      <td>33619</td>
+      <td>Annual Membership from Citi Bike App</td>
+      <td>Subscriber</td>
+    </tr>
+    <tr>
+      <td>ride_10</td>
+      <td>170</td>
+      <td>2018-05-01 05:13:52</td>
+      <td>2018-05-01 05:16:43</td>
+      <td>3206</td>
+      <td>Hilltop</td>
+      <td>3195</td>
+      <td>Sip Ave</td>
+      <td>33555</td>
+      <td>$25 Off Annual Membership</td>
+      <td>Subscriber</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
 new_citi_ride[(new_citi_ride['usertype']== 'Subscriber') & (new_citi_ride['bikeid'] > 30000)]
 ```
 
@@ -2526,6 +2623,293 @@ new_citi_ride[(new_citi_ride['usertype']== 'Subscriber') & (new_citi_ride['bikei
 </div>
 
 
+
+## Iterators in Panda
+
+
+```python
+movie_rate
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>star_rating</th>
+      <th>title</th>
+      <th>genre</th>
+      <th>Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td>9.3</td>
+      <td>The Shawshank Redemption</td>
+      <td>Crime</td>
+      <td>Great Movie</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>9.2</td>
+      <td>The Godfather</td>
+      <td>Crime</td>
+      <td>Great Movie</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>9.1</td>
+      <td>The Godfather: Part II</td>
+      <td>Crime</td>
+      <td>Great Movie</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>9.0</td>
+      <td>The Dark Knight</td>
+      <td>Action</td>
+      <td>ITs OK</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>8.9</td>
+      <td>Pulp Fiction</td>
+      <td>Crime</td>
+      <td>ITs OK</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>8.9</td>
+      <td>12 Angry Men</td>
+      <td>Drama</td>
+      <td>ITs OK</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>8.9</td>
+      <td>The Good, the Bad and the Ugly</td>
+      <td>Western</td>
+      <td>ITs OK</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>8.9</td>
+      <td>The Lord of the Rings: The Return of the King</td>
+      <td>Adventure</td>
+      <td>ITs OK</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>8.9</td>
+      <td>Schindler's List</td>
+      <td>Biography</td>
+      <td>ITs OK</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>8.9</td>
+      <td>Fight Club</td>
+      <td>Drama</td>
+      <td>ITs OK</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>9.5</td>
+      <td>ASUR</td>
+      <td>Crime</td>
+      <td>Great Movie</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+# for Iterate over the rows
+for row in movie_rate.itertuples():
+    print(row)
+```
+
+    Pandas(Index=0, star_rating=9.3, title='The Shawshank Redemption', genre='Crime', Comment='Great Movie')
+    Pandas(Index=1, star_rating=9.2, title='The Godfather', genre='Crime', Comment='Great Movie')
+    Pandas(Index=2, star_rating=9.1, title='The Godfather: Part II', genre='Crime', Comment='Great Movie')
+    Pandas(Index=3, star_rating=9.0, title='The Dark Knight', genre='Action', Comment='ITs OK ')
+    Pandas(Index=4, star_rating=8.9, title='Pulp Fiction', genre='Crime', Comment='ITs OK ')
+    Pandas(Index=5, star_rating=8.9, title='12 Angry Men', genre='Drama', Comment='ITs OK ')
+    Pandas(Index=6, star_rating=8.9, title='The Good, the Bad and the Ugly', genre='Western', Comment='ITs OK ')
+    Pandas(Index=7, star_rating=8.9, title='The Lord of the Rings: The Return of the King', genre='Adventure', Comment='ITs OK ')
+    Pandas(Index=8, star_rating=8.9, title="Schindler's List", genre='Biography', Comment='ITs OK ')
+    Pandas(Index=9, star_rating=8.9, title='Fight Club', genre='Drama', Comment='ITs OK ')
+    Pandas(Index=10, star_rating=9.5, title='ASUR', genre='Crime', Comment='Great Movie')
+    
+
+
+```python
+for index, row in movie_rate.iterrows():
+    print(index)
+    print(row)
+    print()
+```
+
+    0
+    star_rating                         9.3
+    title          The Shawshank Redemption
+    genre                             Crime
+    Comment                     Great Movie
+    Name: 0, dtype: object
+    
+    1
+    star_rating              9.2
+    title          The Godfather
+    genre                  Crime
+    Comment          Great Movie
+    Name: 1, dtype: object
+    
+    2
+    star_rating                       9.1
+    title          The Godfather: Part II
+    genre                           Crime
+    Comment                   Great Movie
+    Name: 2, dtype: object
+    
+    3
+    star_rating                  9
+    title          The Dark Knight
+    genre                   Action
+    Comment                ITs OK 
+    Name: 3, dtype: object
+    
+    4
+    star_rating             8.9
+    title          Pulp Fiction
+    genre                 Crime
+    Comment             ITs OK 
+    Name: 4, dtype: object
+    
+    5
+    star_rating             8.9
+    title          12 Angry Men
+    genre                 Drama
+    Comment             ITs OK 
+    Name: 5, dtype: object
+    
+    6
+    star_rating                               8.9
+    title          The Good, the Bad and the Ugly
+    genre                                 Western
+    Comment                               ITs OK 
+    Name: 6, dtype: object
+    
+    7
+    star_rating                                              8.9
+    title          The Lord of the Rings: The Return of the King
+    genre                                              Adventure
+    Comment                                              ITs OK 
+    Name: 7, dtype: object
+    
+    8
+    star_rating                 8.9
+    title          Schindler's List
+    genre                 Biography
+    Comment                 ITs OK 
+    Name: 8, dtype: object
+    
+    9
+    star_rating           8.9
+    title          Fight Club
+    genre               Drama
+    Comment           ITs OK 
+    Name: 9, dtype: object
+    
+    10
+    star_rating            9.5
+    title                 ASUR
+    genre                Crime
+    Comment        Great Movie
+    Name: 10, dtype: object
+    
+    
+
+
+```python
+# Iterate Over the Colum 
+for key,val in movie_rate.iteritems():
+    print('key', key)
+    print(val)
+```
+
+    key star_rating
+    0     9.3
+    1     9.2
+    2     9.1
+    3     9.0
+    4     8.9
+    5     8.9
+    6     8.9
+    7     8.9
+    8     8.9
+    9     8.9
+    10    9.5
+    Name: star_rating, dtype: float64
+    key title
+    0                          The Shawshank Redemption
+    1                                     The Godfather
+    2                            The Godfather: Part II
+    3                                   The Dark Knight
+    4                                      Pulp Fiction
+    5                                      12 Angry Men
+    6                    The Good, the Bad and the Ugly
+    7     The Lord of the Rings: The Return of the King
+    8                                  Schindler's List
+    9                                        Fight Club
+    10                                             ASUR
+    Name: title, dtype: object
+    key genre
+    0         Crime
+    1         Crime
+    2         Crime
+    3        Action
+    4         Crime
+    5         Drama
+    6       Western
+    7     Adventure
+    8     Biography
+    9         Drama
+    10        Crime
+    Name: genre, dtype: object
+    key Comment
+    0     Great Movie
+    1     Great Movie
+    2     Great Movie
+    3         ITs OK 
+    4         ITs OK 
+    5         ITs OK 
+    6         ITs OK 
+    7         ITs OK 
+    8         ITs OK 
+    9         ITs OK 
+    10    Great Movie
+    Name: Comment, dtype: object
+    
 
 
 ```python
