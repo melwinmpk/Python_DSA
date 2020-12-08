@@ -481,3 +481,277 @@ avo_df.pivot(index = 'Region', columns = 'Type')
 ```python
 
 ```
+
+
+```python
+
+```
+
+## How to get the Index of the Colum  based on the Condition which we give 
+
+### Consider an example to get the index of the max value of the horsepower of the car City wise
+
+
+```python
+vehicle_data = pd.read_csv('datasets/cars_data.csv')
+vehicle_data
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>car_name</th>
+      <th>mpg</th>
+      <th>cylinders</th>
+      <th>displacement</th>
+      <th>horsepower</th>
+      <th>weight</th>
+      <th>acceleration</th>
+      <th>model</th>
+      <th>origin_city</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td>Chevrolet Chevelle Malibu</td>
+      <td>18</td>
+      <td>8</td>
+      <td>307</td>
+      <td>130</td>
+      <td>3504</td>
+      <td>12.0</td>
+      <td>70</td>
+      <td>US</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Buick Skylark 320</td>
+      <td>15</td>
+      <td>8</td>
+      <td>350</td>
+      <td>165</td>
+      <td>3693</td>
+      <td>11.5</td>
+      <td>70</td>
+      <td>US</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Plymouth Satellite</td>
+      <td>18</td>
+      <td>8</td>
+      <td>318</td>
+      <td>150</td>
+      <td>3436</td>
+      <td>11.0</td>
+      <td>70</td>
+      <td>US</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Citroen DS-21 Pallas</td>
+      <td>0</td>
+      <td>4</td>
+      <td>133</td>
+      <td>115</td>
+      <td>3090</td>
+      <td>17.5</td>
+      <td>70</td>
+      <td>Europe</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Toyota Corolla Mark ii</td>
+      <td>24</td>
+      <td>4</td>
+      <td>113</td>
+      <td>95</td>
+      <td>2372</td>
+      <td>15.0</td>
+      <td>70</td>
+      <td>Japan</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Datsun PL510</td>
+      <td>27</td>
+      <td>4</td>
+      <td>97</td>
+      <td>88</td>
+      <td>2130</td>
+      <td>14.5</td>
+      <td>70</td>
+      <td>Japan</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Volkswagen 1131 Deluxe Sedan</td>
+      <td>26</td>
+      <td>4</td>
+      <td>97</td>
+      <td>46</td>
+      <td>1835</td>
+      <td>20.5</td>
+      <td>70</td>
+      <td>Europe</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Peugeot 504</td>
+      <td>25</td>
+      <td>4</td>
+      <td>110</td>
+      <td>87</td>
+      <td>2672</td>
+      <td>17.5</td>
+      <td>70</td>
+      <td>Europe</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Audi 100 LS</td>
+      <td>24</td>
+      <td>4</td>
+      <td>107</td>
+      <td>90</td>
+      <td>2430</td>
+      <td>14.5</td>
+      <td>70</td>
+      <td>Europe</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Saab 99e</td>
+      <td>25</td>
+      <td>4</td>
+      <td>104</td>
+      <td>95</td>
+      <td>2375</td>
+      <td>17.5</td>
+      <td>70</td>
+      <td>Europe</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>BMW 2002</td>
+      <td>26</td>
+      <td>4</td>
+      <td>121</td>
+      <td>113</td>
+      <td>2234</td>
+      <td>12.5</td>
+      <td>70</td>
+      <td>Europe</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Datsun PL510</td>
+      <td>27</td>
+      <td>4</td>
+      <td>97</td>
+      <td>88</td>
+      <td>2130</td>
+      <td>14.5</td>
+      <td>71</td>
+      <td>Japan</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Chevrolet Vega 2300</td>
+      <td>28</td>
+      <td>4</td>
+      <td>140</td>
+      <td>90</td>
+      <td>2264</td>
+      <td>15.5</td>
+      <td>71</td>
+      <td>US</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+### Method 1
+Looping through get the values
+
+
+```python
+for x,y in dict(vehicle_data.groupby('origin_city')["horsepower"].max()).items():
+    print(vehicle_data[(vehicle_data["origin_city"] == x) & (vehicle_data["horsepower"] == y)].index) 
+```
+
+    Int64Index([3], dtype='int64')
+    Int64Index([4], dtype='int64')
+    Int64Index([1], dtype='int64')
+    
+
+### Method 2
+Second method you cannot use all the time as per me
+
+
+```python
+print(vehicle_data.groupby('origin_city')["horsepower"].idxmax())
+```
+
+    origin_city
+    Europe    3
+    Japan     4
+    US        1
+    Name: horsepower, dtype: int64
+    
+
+### Method 3 (Not working)
+It would have been bettor if it worked
+
+
+```python
+vehicle_data[(vehicle_data["origin_city"] in dict(vehicle_data.groupby('origin_city')["horsepower"].max()).keys()) &
+              (vehicle_data["origin_city"] in dict(vehicle_data.groupby('origin_city')["horsepower"].max()).values())  ]  
+```
+
+
+    ---------------------------------------------------------------------------
+
+    TypeError                                 Traceback (most recent call last)
+
+    <ipython-input-9-c10b2851d158> in <module>
+    ----> 1 vehicle_data[(vehicle_data["origin_city"] in dict(vehicle_data.groupby('origin_city')["horsepower"].max()).keys()) &
+          2               (vehicle_data["origin_city"] in dict(vehicle_data.groupby('origin_city')["horsepower"].max()).values())  ]  
+    
+
+    C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\generic.py in __hash__(self)
+       1884         raise TypeError(
+       1885             "{0!r} objects are mutable, thus they cannot be"
+    -> 1886             " hashed".format(self.__class__.__name__)
+       1887         )
+       1888 
+    
+
+    TypeError: 'Series' objects are mutable, thus they cannot be hashed
+
+
+
+```python
+
+```
