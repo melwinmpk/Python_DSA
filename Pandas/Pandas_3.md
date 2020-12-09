@@ -2283,7 +2283,7 @@ avo_df_piv.stack().unstack()
 
 
 ```python
-# what happens when there is Colum level multi Index
+# what happens when there is No Colum level multi Index
 avo_multi = pd.read_csv('datasets/avocado.csv', index_col = ['Region', 'Type'])
 avo_multi
 ```
